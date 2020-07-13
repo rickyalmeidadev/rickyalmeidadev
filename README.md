@@ -1,16 +1,17 @@
-### Hi there 👋
+## :man_technologist: Ricky Almeida
 
-<!--
-**rickyalmeidadev/rickyalmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickyalmeidadev/)](https://www.linkedin.com/in/rickyalmeidadev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky.almeida.dev@gmail.com)](mailto:ricky.almeida.dev@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511994521494&text=Olá!)](https://api.whatsapp.com/send?phone=5511994521494&text=Olá!)
+[![Codewars Badge](https://www.codewars.com/users/rickyalmeidadev/badges/micro)](https://www.codewars.com/users/nymalone/rickyalmeidadev/micro)
 
-Here are some ideas to get you started:
+### Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_technologist: **Fullstack** web developer, **Front-end** passionate.
+- :computer: ReactJs, React Native, NodeJs, JavaScript, TypeScript and **more**.
+- :books: Graduated at **Ironhack** :blue_heart:.
+- ⚡ Fun facts: 
+  - Former musician and music productor :guitar:
+  - Football lover :soccer:
+  - May the force be with you :pray:
+  
