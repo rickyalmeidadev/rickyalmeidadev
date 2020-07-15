@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickyalmeidadev/)](https://www.linkedin.com/in/rickyalmeidadev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky.almeida.dev@gmail.com)](mailto:ricky.almeida.dev@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511994521494&text=Olá!)](https://api.whatsapp.com/send?phone=5511994521494&text=Olá!)
-[![Codewars Badge](https://www.codewars.com/users/rickyalmeidadev/badges/micro)](https://www.codewars.com/users/nymalone/rickyalmeidadev/micro)
+[![Codewars Badge](https://www.codewars.com/users/rickyalmeidadev/badges/micro)](https://www.codewars.com/users/rickyalmeidadev)
 
 ### Hi there! 👋
 
