@@ -7,7 +7,7 @@
 
 ### Hi there! 👋
 
-- :man_technologist: **Fullstack** web developer, **Front-end** passionate.
+- :man_technologist: **Full Stack** web developer, **Front End** passionate.
 - :computer: ReactJs, React Native, NodeJs, JavaScript, TypeScript and **more**.
 - :books: Graduated at **Ironhack** :blue_heart:.
 - ⚡ Fun facts: 
