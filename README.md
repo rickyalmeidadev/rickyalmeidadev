@@ -15,4 +15,5 @@
   - Football lover :soccer:
   - May the force be with you :pray:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyalmeidadev&layout=compact)
+![Ricky'a Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyalmeidadev&layout=compact&theme=github_dark)
+
