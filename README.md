@@ -11,7 +11,7 @@
 - :computer: ReactJs, React Native, NodeJs, JavaScript, TypeScript and **more**.
 - :books: Graduated at **Ironhack** :blue_heart:.
 - ⚡ Fun facts: 
-  - Former musician and music productor :guitar:
+  - Former musician and music producer :guitar:
   - Football lover :soccer:
   - May the force be with you :pray:
   
